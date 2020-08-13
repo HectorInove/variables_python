@@ -8,7 +8,7 @@ Version: 1.3
 
 Descripcion:
 Programa creado para poner a prueba los conocimientos
-adquiridos durante la clase total? como que total?
+adquiridos durante la clase total? como que total? Si total?
 '''
 
 __author__ = "Inove Coding School"
